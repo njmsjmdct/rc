@@ -405,6 +405,7 @@ h2 {
     width: 100%;
     display: flex;
     justify-content: center;
+    padding-bottom: 5%;
 }
 
 .section04 {
@@ -415,7 +416,6 @@ h2 {
 
 .section04 .icon-box {
     width: 20%;
-    height: 20vh;
 }
 
 .section04 .icon-box a {
@@ -466,12 +466,20 @@ footer .footer {
     #section01 .section01 .slide-box .search h2 {
         display: none;
     }
+    
+    #section01 .section01 .slide-box .search .searchBox {
+        height: 30px;
+    }
     #section01 .section01 .slide-box .search .searchBox input {
         width: 300px;
     }
     
     #section01 .section01 .slide-box .search {
         top: 50%;
+    }
+    
+    .box-wrap .box {
+        width: 50%;
     }
     
     .box-wrap .box .box-info .go {

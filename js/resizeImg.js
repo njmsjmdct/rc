@@ -18,6 +18,14 @@ $(function(){
 
     }
     
+//    if($(window).width() < 767){
+//        
+//        const cut = $('.cut');
+//        
+//        cut.remove();
+//        
+//    }
+    
     
     
     $(window).on('resize', imgResize);
