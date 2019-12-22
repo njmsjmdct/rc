@@ -516,13 +516,11 @@ footer .footer {
     }
     
     .section04 {
-        flex-direction: column;
-        align-items: center;
-        overflow: hidden;
+       display: block;
     }
     
     .section04 .icon-box {
         width: 50%;
-        float: left;
+        display: inline-block;
     }
 }
