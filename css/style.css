@@ -415,7 +415,7 @@ h2 {
 }
 
 .section04 .icon-box {
-    width: 20%;
+    width: 25%;
 }
 
 .section04 .icon-box a {
@@ -518,4 +518,8 @@ footer .footer {
         flex-direction: column;
         align-items: center;
     }
+    
+    .section04 .icon-box {
+    width: 50%;
+}
 }
