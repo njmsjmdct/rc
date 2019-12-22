@@ -428,6 +428,7 @@ h2 {
 }
 
 .section04 .icon-box a img {
+    width: 100%;
     margin-bottom: 10px;
 }
 
