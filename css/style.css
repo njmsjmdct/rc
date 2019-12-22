@@ -146,7 +146,7 @@ header nav .nav li.on a {
     border-radius: 5px 0px 0px 5px;
     background-image: url(../images/navimg.jpg);
     background-repeat: no-repeat;
-    background-position: -500px 0;
+    background-position: center center;
     background-size: cover;
 }
 
