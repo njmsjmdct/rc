@@ -526,5 +526,6 @@ footer .footer {
     .section04 .icon-box {
         width: 50%;
         float: left;
+        margin-bottom: 5px;
     }
 }
